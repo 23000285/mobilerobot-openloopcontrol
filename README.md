@@ -107,28 +107,19 @@ if _name_ == '_main_':
 
 Insert image here
 
+![WhatsApp Image 2023-12-28 at 16 03 46_c53f84db](https://github.com/23000285/mobilerobot-openloopcontrol/assets/138970859/8ddbcabb-774b-442d-9512-b9b97b1f64c5)
 
-<br/>
-<br/>
-<br/>
 <br/>
 
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-<br/>
-<br/>
-<br/>
-<br/>
+https://youtube.com/shorts/B2UGFiCBsG4?feature=shared
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
 <br/>
 
 ```
